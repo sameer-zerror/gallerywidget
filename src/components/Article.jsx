@@ -97,13 +97,14 @@ const Article = () => {
                     <div className="col-md-12">
                       <div className="contentSec">
                         <h1 className="heading">
-                          The Mercedes-Benz E-Class: First Among Cars And A
-                          Benchmark In Luxury
+                          Decoding Janhvi Kapoor’s ‘Param Sundari’ Saree Style
                         </h1>
                         <p className="subheading">
-                          For Esquire India’s Auto Issue, we look at what
-                          defines aspiration on Indian roads today{" "}
+                          For Esquire India’s Style Spotlight, we decode how
+                          Janhvi Kapoor channels modern glamour through her
+                          ‘Param Sundari’ saree look
                         </p>
+
                         <div className="authorSec">
                           <span className="author">
                             By{/* */}{" "}
@@ -124,35 +125,39 @@ const Article = () => {
                       <div className="content">
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            COCOONED IN THE COMFORT OF THE BACK SEAT of the{" "}
+                            Gone are the days when floral sarees were just a
                           </span>
                           <a
                             target="_blank"
                             rel="noopener noreferrer"
                             href="https://www.esquireindia.co.in/tag/mercedes"
                           >
-                            <span>Mercedes</span>
+                            <span></span>
                           </a>
                           <span>
-                            -Benz E-Class, wafting smoothly towards the airport,
-                            I find myself enveloped by the warm glow of the
-                            ambient lighting, immersed in the sheer indulgence
-                            that surrounds me. It’s in moments like these—quiet,
-                            uninterrupted—that one truly absorbs the brilliance
-                            of this machine.{" "}
+                            staple in your mum’s wardrobe. Or that school
+                            farewell disaster we’d rather keep under wraps. In
+                            2025, florals are not just a pattern; they’re
+                            cooking up a sartorial personality so potent that it
+                            now seems covetable. Soft, fierce, retro, or
+                            romantic, there’s a floral saree for women for
+                            literally every vibe. Honestly, the turning point
+                            has to be Janhvi Kapoor’s experimental floral
+                            jaal-work saree during the Param Sundari promo tour.
+                            In no way are we saying that it kick-started the
+                            trend, but it sure did propel it back into the
+                            spotlight. With an edge!
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            As I glance around, soaking in the finely appointed
-                            cabin, I’m struck once again by just how
-                            awe-inspiring it is to sit in the back seat of an
-                            E-Class. It’s a sensation that never fades, no
-                            matter how many times I’ve experienced it. In India,
-                            owning a car bearing the iconic three-pointed star
-                            has long been seen as a symbol of success, prestige
-                            and aspiration.
+                            Last week, Kapoor stepped out in an eclectic drape
+                            made completely out of fresh flowers, accompanied by
+                            minimal glam. Okay, maybe it's not the most
+                            functional drape on the block, but hey, it's out of
+                            the box. And somehow girly and grown-up at the same
+                            time.
                           </span>
                         </p>
                         <div>
@@ -176,7 +181,7 @@ const Article = () => {
                                   width: "100%",
                                   height: "auto",
                                 }}
-                                src="https://cdn.esquireindia.co.in/editor-images/2025-07-18T07%3A06%3A33.290Z-Inline1.jpg"
+                                src="https://pbs.twimg.com/media/GyJh0Yaa8AECrX9.jpg"
                               />
                               <div className="photoBy">
                                 <span className="caption" />
@@ -187,43 +192,41 @@ const Article = () => {
                         </div>
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            Among all the models in the Mercedes-Benz lineup,
-                            the E-Class holds a special place in this narrative.
-                            It’s not just a car—it’s a milestone. Over the last
-                            30 years, more than 60,000 units of the E-Class have
-                            found homes across the country. While that number
-                            might not sound massive in broader automotive terms,
-                            it is quite extraordinary for a luxury model in a
-                            market that’s only recently embraced premium
-                            mobility at scale.{" "}
+                            Floral organza sarees aren’t just pretty; they exude
+                            main character energy to the nines. Sorbet shades
+                            like pistachio, lavender, and rosewater are trending
+                            like there’s no tomorrow, with brands like Torani,
+                            Devnaagri, and Picchika dropping styles left, right
+                            and centre. Heirloom-y but still Instagrammable. The
+                            best part? You can wear them to a mehendi, a garden
+                            brunch, or when pretending you're in a Karan Johar
+                            film. (I do that more often than I’d like to admit.)
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            The E-Class has consistently been Mercedes-Benz
-                            India’s best-seller and its success only surged
-                            further when the long wheelbase (LWB) variant was
-                            introduced in 2017—a configuration developed
-                            specifically for markets like India and China, where
-                            back-seat comfort reigns supreme. With this, the
-                            E-Class redefined luxury travel for the
-                            chauffeur-driven elite and widened its appeal to
-                            entrepreneurs and families alike. Now, in its latest
-                            avatar unveiled in October 2024, the E-Class raises
-                            the bar yet again.{" "}
+                            The Versatility of Floral Chiffon & Georgette Let’s
+                            be real: not all of us have the patience (or
+                            upper-body strength) to drape nine yards of stiff
+                            silk. That’s where floral chiffon sarees and floral
+                            print georgette sarees come in. These are your
+                            ‘grab-and-go’ sarees. Light, breezy, and so easy to
+                            move in, you could quite literally break into a
+                            dance routine and not feel like a tangled curtain.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            The newest generation is larger, smarter and more
-                            luxurious than ever. The highlight variant, the E
-                            450 4MATIC, combines power and panache. Its
-                            3.0-litre inline-six turbocharged petrol engine with
-                            mild-hybrid tech delivers a punchy 381 hp and 500 Nm
-                            of torque, ensuring that those who enjoy being
-                            behind the wheel aren’t left wanting.{" "}
+                            Sorbet shades like pistachio, lavender, and
+                            rosewater are trending like there’s no tomorrow,
+                            with brands like Torani, Devnaagri, and Picchika
+                            dropping styles left, right and centre. Heirloom-y
+                            but still Instagrammable. The best part? You can
+                            wear them to a mehendi, a garden brunch, or when
+                            pretending you're in a Karan Johar film. (I do that
+                            more often than I’d like to admit.)
                           </span>
                         </p>
                         <TransmissionSlider />
@@ -255,7 +258,7 @@ const Article = () => {
                                       decoding="async"
                                       data-nimg="fill"
                                       className="imgcover"
-                                      src="https://cdn.esquireindia.co.in/article/2025-07-11T08%3A53%3A24.450Z-Lead_09_TUNNEL_PROSP_FRONT_3-lead-vertical.jpg"
+                                      src="https://img-cdn.publive.online/fit-in/1920x1080/filters:format(webp)/elle-india/media/media_files/2025/09/01/untitled-design-16-2025-09-01-15-35-02.png"
                                       style={{
                                         position: "absolute",
                                         height: "100%",
@@ -267,10 +270,10 @@ const Article = () => {
                                     />
                                   </div>
                                   <div className="related-post-card-content">
-                                    <strong>Cars &amp; Bikes</strong>
+                                    <strong>Fashion</strong>
                                     <h3 className="card-title mb-0">
-                                      Lamborghini Temerario GT3 Is Lighter,
-                                      Faster And Destined For Racing
+                                      Shantnu & Nikhil Make Thier International
+                                      Debut
                                     </h3>
                                     <span className="author">
                                       {" "}
@@ -281,7 +284,7 @@ const Article = () => {
                                 <a
                                   className="related-post-card"
                                   target="_blank"
-                                  href="/tech-and-auto/cars-and-bikes/endurance-bikes-to-lookout-for-in-2025"
+                                  href=""
                                 >
                                   <div className="related-post-image">
                                     <img
@@ -290,7 +293,7 @@ const Article = () => {
                                       decoding="async"
                                       data-nimg="fill"
                                       className="imgcover"
-                                      src="https://cdn.esquireindia.co.in/article/2025-04-13T09%3A06%3A46.689Z-Lead%20%2829%29.jpg"
+                                      src="https://img-cdn.publive.online/fit-in/1920x1080/filters:format(webp)/elle-india/media/media_files/2025/09/01/untitled-design-16-2025-09-01-15-35-02.png"
                                       style={{
                                         position: "absolute",
                                         height: "100%",
@@ -302,9 +305,10 @@ const Article = () => {
                                     />
                                   </div>
                                   <div className="related-post-card-content">
-                                    <strong>Cars &amp; Bikes</strong>
+                                    <strong>Fashion</strong>
                                     <h3 className="card-title mb-0">
-                                      6 Endurance Bikes To Lookout For In 2025
+                                      Shantnu & Nikhil Make Thier International
+                                      Debut
                                     </h3>
                                     <span className="author">
                                       {" "}
@@ -318,33 +322,30 @@ const Article = () => {
                         </div>
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            It whips you to 100 in just 4.5 seconds. Paired with
-                            Mercedes’ 9G-TRONIC automatic transmission and
-                            4MATIC all-wheel drive, it offers a buttery smooth,
-                            refined but punchy drive. But of course, the back
-                            seat is where the E-Class LWB truly dazzles. The
-                            rear cabin is nothing short of a sanctuary. In the
-                            new generation, the seats recline up to 36 degrees,
-                            include extendable thigh support and come with “boss
-                            mode,” allowing the rear passenger to push the front
-                            seat forward with the touch of a button, fully
-                            stretching out in ultimate relaxation.{" "}
+                            Let’s be real: not all of us have the patience (or
+                            upper-body strength) to drape nine yards of stiff
+                            silk. That’s where floral chiffon sarees and floral
+                            print georgette sarees come in. These are your
+                            ‘grab-and-go’ sarees. Light, breezy, and so easy to
+                            move in, you could quite literally break into a
+                            dance routine and not feel like a tangled curtain.
                           </span>
                         </p>
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            Despite the rise of SUVs, the E-Class continues to
-                            embody timeless elegance. Its stately design,
-                            complete with a chrome-heavy grille, sleek LED DRLs
-                            and a flowing silhouette, commands attention
-                            wherever it goes. Arriving in an E-Class still
-                            elicits a head-turn, a held-open door and an almost
-                            ceremonial welcome from onlookers who’ve long dreamt
-                            of being in your seat.
+                            Floral organza sarees aren’t just pretty; they exude
+                            main character energy to the nines. Sorbet shades
+                            like pistachio, lavender, and rosewater are trending
+                            like there’s no tomorrow, with brands like Torani,
+                            Devnaagri, and Picchika dropping styles left, right
+                            and centre. Heirloom-y but still Instagrammable. The
+                            best part? You can wear them to a mehendi, a garden
+                            brunch, or when pretending you're in a Karan Johar
+                            film. (I do that more often than I’d like to admit.)
                           </span>
                         </p>
-                        <div>
+                        {/* <div>
                           <div className="ad-flex-all">
                             <div
                               id="div-gpt-ad-stories-middle-12"
@@ -353,17 +354,12 @@ const Article = () => {
                               style={{ margin: "30px auto" }}
                             />
                           </div>
-                        </div>
+                        </div> */}
                         <p style={{ textAlign: "left" }} />
                         <p style={{ textAlign: "left" }}>
                           <span>
-                            As I lean back, fully reclined and insulated from
-                            the chaos outside, I’m reminded again why this car
-                            has endured. Few vehicles can blend tradition,
-                            innovation, and indulgence so effortlessly. The
-                            Mercedes-Benz E-Class isn’t just transportation.
-                            It’s an experience, a status symbol, and for many, a
-                            coveted car.
+                          The Versatility of Floral Chiffon & Georgette 
+Let’s be real: not all of us have the patience (or upper-body strength) to drape nine yards of stiff silk. That’s where floral chiffon sarees and floral print georgette sarees come in. These are your ‘grab-and-go’ sarees. Light, breezy, and so easy to move in, you could quite literally break into a dance routine and not feel like a tangled curtain.
                           </span>
                         </p>
                         <div>
@@ -390,12 +386,10 @@ const Article = () => {
                                   width: "100%",
                                   height: "auto",
                                 }}
-                                src="https://cdn.esquireindia.co.in/editor-images/2025-07-18T07%3A08%3A38.725Z-1Ferrari%20296%20GTB%20%C3%AF%C2%80%C2%A2%20GTS.jpg"
+                                src="https://pbs.twimg.com/media/Gx6RSvNXMAAjWrg.jpg"
                               />
                               <div className="photoBy">
-                                <span className="caption">
-                                  Ferrari 296 GTB / GTS{" "}
-                                </span>
+                                <span className="caption">Janhvi kapoor</span>
                                 <span className="courtesy" />
                               </div>
                             </div>
