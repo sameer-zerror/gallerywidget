@@ -3796,6 +3796,7 @@ a {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  cursor: none !important;
 }
 
 .cards li {
@@ -3823,6 +3824,7 @@ a {
   position: relative;
   overflow: hidden;
   z-index: 1;
+  cursor: none;
 }
 
 .card__img {
@@ -4120,6 +4122,31 @@ a {
   .project__list__link:hover .l-sp:last-child {
     transform: translate3d(0, -100%, 0);
   }
+  /* .project__carousel{
+    cursor: none;
+  } */
+  .custom-cursor {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 90px;
+  height: 90px;
+  pointer-events: none;
+  border: 2px solid black;
+  border-radius: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 9999;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  background-color: rgba(255, 255, 255, 0.7);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 14px;
+  /* text-transform: uppercase; */
+  mix-blend-mode: difference;
+}
 }
 
 @media (orientation: portrait) and (max-width: 1024px) {

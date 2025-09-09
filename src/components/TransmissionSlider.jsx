@@ -92,7 +92,7 @@ const projects = [
     school: "Shenkar_College_of_Engineering,_Design_and_Arts",
     tags: ["Tailoring"],
   },
-   {
+  {
     id: "pr7",
     name: "Janhvi Kapoor",
     href: "",
@@ -102,7 +102,6 @@ const projects = [
   },
 ];
 const TransmissionSlider = () => {
- 
   useEffect(() => {
     let iteration = 0;
     let trigger;
@@ -256,11 +255,58 @@ const TransmissionSlider = () => {
         }, 300);
       },
     });
+        const cursor = document.querySelector(".custom-cursor");
+    const carousel = document.querySelector(".project__carousel");
+
+    let mouse = { x: 0, y: 0 };
+    let cursorPos = { x: 0, y: 0 };
+
+    // Smooth LERP motion
+    function animateCursor() {
+      cursorPos.x = math.lerp(cursorPos.x, mouse.x, 0.1);
+      cursorPos.y = math.lerp(cursorPos.y, mouse.y, 0.1);
+      gsap.set(cursor, {
+        x: cursorPos.x,
+        y: cursorPos.y,
+      });
+      requestAnimationFrame(animateCursor);
+    }
+    animateCursor();
+
+    const onMouseMove = (e) => {
+      mouse.x = e.clientX;
+      mouse.y = e.clientY;
+    };
+
+    const onMouseEnter = () => {
+      document.body.style.cursor = "none";
+      cursor.style.opacity = 1;
+    };
+
+    const onMouseLeave = () => {
+      document.body.style.cursor = "auto";
+      cursor.style.opacity = 0;
+    };
+
+    carousel.addEventListener("mousemove", onMouseMove);
+    carousel.addEventListener("mouseenter", onMouseEnter);
+    carousel.addEventListener("mouseleave", onMouseLeave);
+
+    // Cleanup
+    return () => {
+      carousel.removeEventListener("mousemove", onMouseMove);
+      carousel.removeEventListener("mouseenter", onMouseEnter);
+      carousel.removeEventListener("mouseleave", onMouseLeave);
+    };
+
   }, []);
 
   return (
     <>
       <div className="project__carousel">
+        <div className="custom-cursor">
+          <span>Drag</span>
+        </div>
         <input type="hidden" id="nTitle" />
         <section className="projects__gallery bw">
           <ul className="cards__container cards">
@@ -320,7 +366,7 @@ const TransmissionSlider = () => {
             width: "100%",
             height: "100%",
             zIndex: 1000,
-            cursor: "grab",
+            // cursor: "none",
           }}
         />
       </div>
